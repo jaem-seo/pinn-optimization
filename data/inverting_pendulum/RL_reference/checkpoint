@@ -1,2 +1,0 @@
-model_checkpoint_path: "saved_actor"
-all_model_checkpoint_paths: "saved_actor"
