@@ -1,5 +1,5 @@
 # PINN for real-world optimization tasks
-- To solve real-world optimization tasks, PINN incorporating "Goal loss" is introduced.
+- To solve real-world optimization tasks, PINN (physics-informed neural network) incorporating "Goal loss" is introduced.
 - In this repository, some showcases of optimization tasks (inverting a pendulum, finding the fastest path, and spacecraft swingby) are available, which can be seen in the [paper](https://www.nature.com/articles/s41598-023-49977-3).
 
 # Note
