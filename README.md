@@ -3,7 +3,7 @@
 - In this repository, some showcases of optimization tasks (inverting a pendulum, finding the fastest path, and spacecraft swingby) are available, which can be seen in the [paper](https://www.nature.com/articles/s41598-023-49977-3).
 
 # Note
-- This is a proof-of-concept work, and there still are issues of convergence and seed-dependency.
+- This is a proof-of-concept work, and there still are issues of convergence and seed-dependency. We recommend training on different seeds and choosing the one with the smallest loss, which is still practically reasonable.
 - The saved weights and plots are generated with RTX-3080Ti GPU.
 
 # References
